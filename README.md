@@ -1,4 +1,4 @@
-# 🐋 Cetacean Scrolls 📜  
+# 🐋 The Cetacean Scrolls 📜  
 *A memory machine for the deep.*
 
 ---
