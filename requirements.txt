@@ -1,0 +1,18 @@
+# Audio processing
+pydub==0.25.1
+ffmpeg-python==0.2.0  # Needed to handle mp3 exports via pydub
+
+# OpenAI API client
+openai>=1.3.7
+
+# JSON and time handling (standard library but listing for awareness)
+# json
+# datetime
+
+# Optional: For progress bar/logging (nice to have)
+tqdm>=4.66.1
+
+# Optional: If you plan to later do motif clustering or FFT analysis
+numpy>=1.24.4
+scipy>=1.11.3
+matplotlib>=3.8.2
