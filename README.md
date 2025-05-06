@@ -3,6 +3,8 @@
 
 ---
 
+![Cetacean](media/cetaceanscrolls.png)
+
 ## 🌊 Project Overview
 
 **Cetacean Scrolls** is an ongoing project to transcribe, analyze, and interpret whale songs using AI.  
