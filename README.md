@@ -14,7 +14,7 @@ We aim to build a modular, extensible system that can:
 - ✂️ Chunk them into overlapping segments
 - 🧠 Transcribe audio using OpenAI’s `gpt-4o-transcribe`
 - 🔍 Analyze the transcripts for motifs, structure, and anomalies
-- 🪵 Log every entry as part of a growing, global **Cetacean Memory Archive**
+- 🗒️ Log every entry as part of a growing, global **Cetacean Memory Archive**
 
 ---
 
@@ -79,7 +79,7 @@ This project is actively evolving—check back for:
 
 🧬 Motif clustering and tracking
 
-🪶 Cross-species sonics (birds, elephants, more?)
+🐦🐋🐘 Cross-species sonics (birds, elephants, more?)
 
 🤝 Contributing
 This repo will eventually open to collaboration for:
